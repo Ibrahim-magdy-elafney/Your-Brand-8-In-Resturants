@@ -166,17 +166,6 @@ button:hover {
 
 }
 
-.header-flex {
-
-    display: flex;
-
-    align-items: center;
-
-    gap: 2px;
-
-
-}
-
 .section-flex {
 
     display: flex;
